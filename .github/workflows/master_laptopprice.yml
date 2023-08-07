@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'laptopprice'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8024C5C9FA5B45B68261406861BC24EC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1F70996D61A64420811CC42B9B38033A }}
