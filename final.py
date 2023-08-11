@@ -28,7 +28,7 @@ backgroundColor="#FFFFFF"
 #     ''' % bin_str
 #     st.markdown(page_bg_img, unsafe_allow_html=True)
 
-# import the model
+# import the modelss
 
 
 # pipe = pickle.load(open('pipee.pkl','rb'))
@@ -41,7 +41,7 @@ df = pd.read_pickle("dff.pkl")
 
 
 
-st.title("Laptop Predictor")
+st.title("Laptop Price Predictor")
 
 # Interface
 
